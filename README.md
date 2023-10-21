@@ -58,4 +58,4 @@ VideoGen improves inbound marketing for web product sales by simplifying content
 [SDXL Example](https://youtu.be/qea0MeDDzcI)
 
 ### OpenGL Render
-[OpenGL Render](https://youtu.be/w_-slBwpA9g)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w_-slBwpA9g" frameborder="0" allowfullscreen></iframe>
