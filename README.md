@@ -52,7 +52,7 @@ VideoGen improves inbound marketing for web product sales by simplifying content
 ![Upload interface image](examples/images/upload.png)
 
 ### Bark Voice Example
-![Bark Voice Example](examples/sound/bark_out.png)
+![Bark Voice Example](examples/sound/bark_out.wav)
 
 ### SDXL Example
 ![SDXL Example](examples/video/3D_SDXL.mp4)
