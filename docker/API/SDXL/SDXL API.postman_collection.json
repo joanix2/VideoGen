@@ -1,0 +1,42 @@
+{
+	"info": {
+		"_postman_id": "a4adbc9c-7580-4fab-baaf-dd00470b7550",
+		"name": "SDXL API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29988470"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"name\": \"lion\",\n    \"prompt\" : \"A majestic lion jumping from a big stone at night\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://127.0.0.1:8000/generate/",
+					"protocol": "http",
+					"host": [
+						"127",
+						"0",
+						"0",
+						"1"
+					],
+					"port": "8000",
+					"path": [
+						"generate",
+						""
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
