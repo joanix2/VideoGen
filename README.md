@@ -52,10 +52,10 @@ VideoGen improves inbound marketing for web product sales by simplifying content
 ![Upload interface image](examples/images/upload.png)
 
 ### Bark Voice Example
-![Bark Voice Example](examples/sound/bark_out.wav)
+![Bark Voice Example](https://github.com/suno-ai/bark)
 
 ### SDXL Example
-![SDXL Example](examples/video/3D_SDXL.mp4)
+![SDXL Example](https://youtu.be/qea0MeDDzcI)
 
 ### OpenGL Render
-![OpenGL Render](examples/video/OpenGL_render.mp4)
+![OpenGL Render](https://youtu.be/w_-slBwpA9g)
